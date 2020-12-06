@@ -1,0 +1,15 @@
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\bin\Debug\netcoreapp3.1\DDDTaiwan2020.Application.deps.json
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\bin\Debug\netcoreapp3.1\DDDTaiwan2020.Application.runtimeconfig.json
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\bin\Debug\netcoreapp3.1\DDDTaiwan2020.Application.runtimeconfig.dev.json
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\bin\Debug\netcoreapp3.1\DDDTaiwan2020.Application.dll
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\bin\Debug\netcoreapp3.1\DDDTaiwan2020.Application.pdb
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Application.csprojAssemblyReference.cache
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Application.AssemblyInfoInputs.cache
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Application.AssemblyInfo.cs
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Application.csproj.CoreCompileInputs.cache
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Application.dll
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Application.pdb
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Application.genruntimeconfig.cache
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\bin\Debug\netcoreapp3.1\DDDTaiwan2020.Domain.dll
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\bin\Debug\netcoreapp3.1\DDDTaiwan2020.Domain.pdb
+D:\Temp\DDDLab8\DDDTaiwan2020.Application\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Application.csproj.CopyComplete

@@ -1,0 +1,9 @@
+D:\Temp\DDDLab8\DDDTaiwan2020.Domain\bin\Debug\netcoreapp3.1\DDDTaiwan2020.Domain.deps.json
+D:\Temp\DDDLab8\DDDTaiwan2020.Domain\bin\Debug\netcoreapp3.1\DDDTaiwan2020.Domain.dll
+D:\Temp\DDDLab8\DDDTaiwan2020.Domain\bin\Debug\netcoreapp3.1\DDDTaiwan2020.Domain.pdb
+D:\Temp\DDDLab8\DDDTaiwan2020.Domain\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Domain.AssemblyInfoInputs.cache
+D:\Temp\DDDLab8\DDDTaiwan2020.Domain\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Domain.AssemblyInfo.cs
+D:\Temp\DDDLab8\DDDTaiwan2020.Domain\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Domain.csproj.CoreCompileInputs.cache
+D:\Temp\DDDLab8\DDDTaiwan2020.Domain\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Domain.dll
+D:\Temp\DDDLab8\DDDTaiwan2020.Domain\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Domain.pdb
+D:\Temp\DDDLab8\DDDTaiwan2020.Domain\obj\Debug\netcoreapp3.1\DDDTaiwan2020.Domain.csprojAssemblyReference.cache
